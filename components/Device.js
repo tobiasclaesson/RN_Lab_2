@@ -56,12 +56,12 @@ const styles = StyleSheet.create({
     backgroundColor: "red",
   },
   deviceText: {
-    flex: 6,
+    flex: 12,
     fontSize: 18,
     marginLeft: 15,
   },
   buttonContainer: {
-    flex: 1,
+    flex: 2,
     backgroundColor: "#fff",
     marginRight: 10,
   },
